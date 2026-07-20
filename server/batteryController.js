@@ -1,0 +1,1 @@
+exports.getBattery=(req,res)=>res.json({battery:90});

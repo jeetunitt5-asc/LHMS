@@ -1,0 +1,1 @@
+exports.getAudio=(req,res)=>res.json({volume:80});

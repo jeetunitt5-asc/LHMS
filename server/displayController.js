@@ -1,0 +1,1 @@
+exports.getDisplay=(req,res)=>res.json({brightness:70});
